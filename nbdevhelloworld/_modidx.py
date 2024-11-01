@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://frankausberlin.github.io',
                 'git_url': 'https://github.com/frankausberlin/nbdevhelloworld',
                 'lib_path': 'nbdevhelloworld'},
-  'syms': {'nbdevhelloworld.core': {'nbdevhelloworld.core.foo': ('core.html#foo', 'nbdevhelloworld/core.py')}}}
+  'syms': { 'nbdevhelloworld.core': { 'nbdevhelloworld.core.foo': ('core.html#foo', 'nbdevhelloworld/core.py'),
+                                      'nbdevhelloworld.core.say_hello': ('core.html#say_hello', 'nbdevhelloworld/core.py')}}}
