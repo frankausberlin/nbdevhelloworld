@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevhelloworld"
+  site-url: "https://frankausberlin.github.io/nbdevhelloworld"
+  description: "The nbdev tutorial - other name to avoid conflicts"
+  repo-branch: main
+  repo-url: "https://github.com/frankausberlin/nbdevhelloworld"
